@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuCamera.unity
+    guid: b2b80ae50926bb34bb9bf1c0af38ce93
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 085b30f48b19d604a939a7e481022caa
+  - enabled: 1
+    path: Assets/Scenes/TutorialEndScene.unity
+    guid: 8714161a501a3e245b3c2a4315d2feac
+  - enabled: 1
+    path: Assets/Scenes/FirstLevel.unity
+    guid: ee59fdd9d02e7874787ce069036051f5
+  - enabled: 1
+    path: Assets/Scenes/LevelFinished.unity
+    guid: 177aaa470b5992544982480a8a49a364
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
